@@ -1,0 +1,46 @@
+.sign{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(145, 200, 251);
+}
+.sign-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid black; */
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.htag{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+
+}
+.tag{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.same{
+    width: 330px;
+    padding: 7px;
+}
+.btn{
+    padding: 10px;
+    width: 350px;
+}
+.btn-sub{
+    width: 100%;
+    padding: 5px;
+    font-size: larger;
+    background-color: rgb(145, 200, 251) ;
+    color: white;
+    border: none;
+}

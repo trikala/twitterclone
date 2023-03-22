@@ -1,0 +1,24 @@
+.left-Main{
+    height: 100vh;
+   
+    width: 90%;
+    padding: 10px;
+}
+.tweet-btn{
+    padding: 10px;
+}
+.btn-btn{
+    padding: 10px;
+}
+.outer-btn{
+    padding:  5px 10px;
+    width: 200px;
+}
+.last{
+    background-color:rgb(77, 181, 244);
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}

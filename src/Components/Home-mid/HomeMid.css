@@ -1,0 +1,10 @@
+.head{
+    border-right:0.1px solid rgb(160, 160, 160) ;
+    border-bottom: 0.1px solid rgb(160,160,160);
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.mid-main{
+    border-left: 0.1px solid grey;
+}
